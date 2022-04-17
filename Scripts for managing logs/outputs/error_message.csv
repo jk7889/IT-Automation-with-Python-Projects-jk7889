@@ -1,0 +1,6 @@
+Error,Count
+Tried to add info to closed ticket,4
+Failed to create ticket,4
+Connection to DB Failed,3
+Ticket doesn't exist,3
+Timeout while retrieving information,2
